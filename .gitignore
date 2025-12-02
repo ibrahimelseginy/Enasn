@@ -1,0 +1,15 @@
+/.env
+/.env.*
+/vendor/
+/node_modules/
+/storage/app/
+/storage/framework/
+/storage/logs/
+/bootstrap/cache/
+/.trae/
+/.DS_Store
+Thumbs.db
+/.phpunit.result.cache
+composer.phar
+composer-setup.php
+ensandb/

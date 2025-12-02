@@ -1,0 +1,15 @@
+{
+  "name": "ensan/charity-system",
+  "type": "project",
+  "description": "نظام إداري لمؤسسة إنسان الخيرية باستخدام Laravel و MySQL",
+  "require": {
+    "php": ">=8.2",
+    "laravel/framework": "^11.0",
+    "laravel/tinker": "^2.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
